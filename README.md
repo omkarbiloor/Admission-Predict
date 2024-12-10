@@ -19,7 +19,7 @@ The model helps in predicting the chances of a student's admission to graduate s
 ## 🛠 Features
 
 - **Data Preprocessing**: Handling missing values, encoding categorical variables, feature scaling.
-- **Model Selection**: Use of Linear Regression or other suitable models.
+- **Model Selection**: Use of Decision Tree Classifier or other suitable models.
 - **Model Evaluation**: Metrics like accuracy, precision, recall, and mean squared error (MSE).
 - **Visualization**: Data visualization for better understanding and model interpretability.
 
